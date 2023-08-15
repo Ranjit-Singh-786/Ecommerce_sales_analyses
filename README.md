@@ -2,6 +2,6 @@
 ecommerce Shop Data Analysis Project, Build Power Bi Dashboard.
 
 ## Dashbord image
-<img src="dash.png">
+<img src="imges/dash.png">
 
 ### Thank you 🖤
